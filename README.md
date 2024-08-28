@@ -9,9 +9,6 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) 
 ![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)<br>
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![React Native](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Solidity](https://img.shields.io/badge/solidity-363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/ethereum-3C3C3D.svg?&style=for-the-badge&logo=ethereum&logoColor=white)
