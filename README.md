@@ -43,7 +43,7 @@ Always excited to **connect** with like-minded individuals and **collaborate** o
 
 <br>
 
-### ➰ Algorithm Ranking  
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/profile/lch010201)
+<!-- ### ➰ Algorithm Ranking  
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/profile/lch010201) -->
 
 
