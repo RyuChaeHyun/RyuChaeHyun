@@ -1,4 +1,4 @@
-## RYUCHAEHYUN 🐥
+## I'm ChaeHyun! 🐥
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cielo_g)](https://velog.io/@cielo_g)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lch010201@gmail.com)](mailto:lch010201@gmail.com)
