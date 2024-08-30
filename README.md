@@ -10,6 +10,8 @@ Also, I have a strong interest in **security** and try to keep security in mind 
 
 I enjoy working out at the gym, doing Pilates, and drinking coffee.🏋️‍♀️🧘☕  
 I’m also passionate about traveling and have explored various countries around the world. 🌍✈️
+
+Always excited to **connect** with like-minded individuals and **collaborate** on innovative projects!
  
 <br>
 
