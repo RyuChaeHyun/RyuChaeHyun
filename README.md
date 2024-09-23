@@ -1,6 +1,6 @@
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=26&duration=5005&pause=1000&color=C68FE6&width=435&lines=Hi!+I'm+ChaeHyun+Ryu+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=26&duration=5005&pause=1000&color=C68FE6&width=435&lines=Hi!+I'm+ChaeHyun+Ryu+%3AD)](https://git.io/typing-svg)
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cielo_g)](https://velog.io/@cielo_g)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lch010201@gmail.com)](mailto:lch010201@gmail.com)
