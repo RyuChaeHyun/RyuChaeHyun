@@ -2,6 +2,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=28&duration=5004&pause=1000&color=7A1CAC&width=435&lines=Hi!+I'm+ChaeHyun+Ryu+%3AD)](https://git.io/typing-svg)-->
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ryuchaehyun)](https://www.linkedin.com/in/ryuchaehyun)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@cielo_g)](https://velog.io/@cielo_g)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lch010201@gmail.com)](mailto:lch010201@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/chae_.vly)](https://instagram.com/chae_.vly)
