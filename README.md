@@ -18,7 +18,7 @@ Always excited to **connect** with like-minded individuals and **collaborate** o
  
 <br>
 
-### ➰ **Skills**
+### ➰ **Skills** 
 
 **🧑‍💻 Lang and Frameworks**  
 <br>
