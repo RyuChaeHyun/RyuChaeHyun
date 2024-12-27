@@ -12,7 +12,7 @@ Hi there!🖐 I'm an aspiring **Cloud and DevOps Engineer** with a passion for d
 Also, I have a strong interest in **security** and try to keep security in mind while developing.🛡️💓
 
 I enjoy working out at the gym, doing Pilates, and drinking coffee.🏋️‍♀️🧘☕  
-I’m also passionate about traveling and have explored various countries around the world. 🌍✈️
+I'm also passionate about traveling and have explored various countries around the world. 🌍✈️
 
 Always excited to **connect** with like-minded individuals and **collaborate** on innovative projects!
  
@@ -31,11 +31,20 @@ Always excited to **connect** with like-minded individuals and **collaborate** o
 
 **🛠️ Infra and Tools**  
 <br>
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/argo-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)  
 ![VMware](https://img.shields.io/badge/vmware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)  
-![Elastic Stack](https://img.shields.io/badge/elastic%20stack-005571.svg?&style=for-the-badge&logo=elasticstack&logoColor=white) 
+![Elastic Stack](https://img.shields.io/badge/elastic%20stack-005571.svg?&style=for-the-badge&logo=elasticstack&logoColor=white)
+![Fluentd](https://img.shields.io/badge/fluentd-0E83C8.svg?&style=for-the-badge&logo=fluentd&logoColor=white)
+![Kibana](https://img.shields.io/badge/kibana-005571.svg?&style=for-the-badge&logo=kibana&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)  
 ![Amazon ECS](https://img.shields.io/badge/amazonecs-FF9900.svg?&style=for-the-badge&logo=amazonecs&logoColor=white) 
 ![AWS Fargate](https://img.shields.io/badge/awsfargate-FF9900.svg?&style=for-the-badge&logo=awsfargate&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -46,7 +55,6 @@ Always excited to **connect** with like-minded individuals and **collaborate** o
 
 <br>
 
+
 <!-- ### ➰ Algorithm Ranking  
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/profile/lch010201) -->
-
-
