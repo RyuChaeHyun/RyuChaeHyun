@@ -16,7 +16,7 @@ Always excited to **connect** with like-minded individuals and **collaborate** o
  
 <br>
 
-### 🚀 **Tech Stack** 
+### ➰ **Tech Stack** 
 
 **☁️ Cloud & DevOps**  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
